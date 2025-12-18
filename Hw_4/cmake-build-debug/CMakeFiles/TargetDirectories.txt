@@ -1,0 +1,3 @@
+/Users/eraydilmen/Desktop/Data Structure HW/Hw_4/cmake-build-debug/CMakeFiles/Hw_4.dir
+/Users/eraydilmen/Desktop/Data Structure HW/Hw_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eraydilmen/Desktop/Data Structure HW/Hw_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
